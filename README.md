@@ -3,3 +3,5 @@ This repository is a starter portfolio that you can use to learn a little bit ab
 - bob
 - lemusa
 - yo
+
+:sparkles:kaka
